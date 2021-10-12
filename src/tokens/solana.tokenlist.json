@@ -16909,6 +16909,28 @@
         "github": "https://github.com/CarbonFarm",
         "medium": "https://carbonfarm.medium.com/",
         "reddit": "https://www.reddit.com/user/CarbonFarm"
+      },
+       {
+      "chainId": 103,
+      "address": "Ez8tXLPgdNkXuDwdMw2VQ1vCunWnTnycNBheWgBGtX6g",
+      "symbol": "BBY",
+      "name": "Babypunks",
+      "decimals": 9,
+      "logoURI": "https://s3.eu-central-1.wasabisys.com/somefiles/babypunks_logo_token.png",
+      "tags": [
+        "token"
+        "Babypunks"
+      ],
+      "extensions": {
+        "website": "https://www.babypunks.com/#story"
+        "twitter": "https://twitter.com/BabyPunksCoin",
+        "discord": "https://discord.com/invite/babypunks",
+        "instagram": "https://www.instagram.com/babypunkscoin/",
+        "facebook": "https://www.facebook.com/BabyPunksCoin",
+        "reddit": "https://www.reddit.com/r/babypunksofficial/",
+        "medium": "https://medium.com/@BabyPunks",
+        "telegram": "https://t.me/babypunksofficial"
+        
       }
     }
   ],
